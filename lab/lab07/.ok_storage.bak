@@ -1,0 +1,7 @@
+'Card.__init__-correct', (0, 70)
+'Card.power-correct', (512, 70)
+'Player.__init__-correct', (1024, 70)
+'Player.draw-correct', (1536, 70)
+'Player.play-correct', (2048, 70)
+'convert_link-correct', (2560, 70)
+'cumulative_mul-correct', (3072, 70)

@@ -1,0 +1,7 @@
+'couple-correct', (0, 70)
+'distance-correct', (512, 70)
+'closer_city-correct', (1024, 70)
+'check_city_abstraction-correct', (1536, 70)
+'berry_finder-correct', (2048, 70)
+'sprout_leaves-correct', (2560, 70)
+'check_abstraction-correct', (3072, 70)

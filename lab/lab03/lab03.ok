@@ -1,0 +1,26 @@
+{
+    "name": "Lab 3",
+    "endpoint": "cal/cs61a/sp21/lab03",
+    "src": [
+        "lab03.py"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "recursion-wwpd",
+        "sr-wwpd",
+        "summation",
+        "pascal",
+        "repeated"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}

@@ -1,0 +1,5 @@
+'Prologue - Reader-correct', (0, 70)
+'Prologue - Expr-correct', (512, 70)
+'Name.eval-correct', (1024, 70)
+'CallExpr.eval-correct', (1536, 70)
+'LambdaFunction.apply-correct', (2048, 70)

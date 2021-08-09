@@ -1,0 +1,6 @@
+'subseqs-correct', (0, 70)
+'Keyboard-correct', (512, 70)
+'Account-correct', (1024, 70)
+'trade-correct', (1536, 70)
+'shuffle-correct', (2048, 70)
+'insert-correct', (2560, 70)

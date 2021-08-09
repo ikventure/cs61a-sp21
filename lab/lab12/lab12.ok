@@ -1,0 +1,24 @@
+{
+    "name": "Lab 12",
+    "endpoint": "cal/cs61a/sp21/lab12",
+    "src": [
+        "lab12.scm"
+    ],
+    "tests": {
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "wwsd-macros",
+        "tail-replicate",
+        "scheme-def",
+        "repeatedly-cube"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

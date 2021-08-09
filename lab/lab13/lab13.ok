@@ -1,0 +1,25 @@
+{
+    "name": "Lab 13",
+    "endpoint": "cal/cs61a/sp21/lab13",
+    "src": [
+        "lab13.py"
+    ],
+    "tests": {
+        "tests/*.py": "ok_test",
+        "lab*.py": "doctest"
+    },
+    "default_tests": [
+        "ebnf-grammar-wwpd",
+        "roman_numerals",
+        "calculator_ops",
+        "cs_classes"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Lab 6",
+    "endpoint": "cal/cs61a/sp21/lab06",
+    "src": [
+        "lab06.py"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "insert_items",
+        "list-mutation",
+        "scale",
+        "hailstone",
+        "nonlocal_quiz"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
